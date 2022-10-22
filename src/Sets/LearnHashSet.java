@@ -34,7 +34,7 @@ public class LearnHashSet {
         // Delete elements
         set.remove(2);
         if(!set.contains(2)){
-            System.out.println("2 has been deleted");
+            System.out.println("2 has been deleted Successfully!");
         }
 
         // Iterator
